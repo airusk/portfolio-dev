@@ -4,6 +4,16 @@
 }
 .techy{
   font-family: 'Courier New', Courier, monospace;
-  color: #fff;
+  color: #efefef;
   background-color: #545454;
+  word-spacing: -7px;
+}
+
+.skills label{
+  text-align: center;
+}
+
+.skill{
+  height: 64px;
+  width: auto;
 }
