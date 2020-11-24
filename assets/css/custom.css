@@ -6,16 +6,17 @@
   font-family: 'Karla', sans-serif;
 }
 
-.skills label{
-  text-align: center;
-}
-
 .skill{
-  /* height: 64px; */
   width: 64px;
   height: auto;
 }
 
 .contact-form{
   color: #000;
+}
+
+.icons > li{
+  width: 80px;
+  height: 40px;
+  text-align: center;
 }
